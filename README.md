@@ -1,5 +1,5 @@
 # About Me
-## JackE-code  Full stack ,Devops & Blockchain Enthusiast.
+## ElianKim-code  Full stack ,Devops & Blockchain Enthusiast.
 Code with me, Code as Art. Collaboration gurantee on decentralized projects.
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elian-kim) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Elian-kim) 
